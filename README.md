@@ -1,7 +1,3 @@
-#UCB Data Analytics Project
-
-**Members: Neil, Song, Michael**
-
 **Title: San Francisco Restaurant Business Analysis**
 
 [Github Repository](https://github.com/nvodoor/RBA)
